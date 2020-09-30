@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: #50C9CE;
+}
+h2{
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #50C9CE;
+    margin-bottom: 60px;
+}
+body{
+    margin: 30px 150px;
+    margin-bottom: 100px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: #303753;
+    color: white;
+}
+.s1{
+    border-bottom: 1px white solid;
+}
+.s2{
+    border-bottom: 1px white solid;
+}
+.peter{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ecc494;  
+}
+.dana{
+    font-weight: bold;
+    font-size: 20px;
+    color: #b2d4b9;
+}
+.caption{
+    font-style: italic;
+    color: #FF5376;
+}
+.mayor{
+    font-weight: bold;
+    font-size: 20px;
+    color: #F6CACA;
+}
+.ray{
+    font-weight: bold;
+    font-size: 20px;
+    color: #A9D2D5;
+}
+p{
+    font-size: 16px;
+}
+.egon{
+    font-weight: bold;
+    font-size: 20px;
+    color: #D2D6EF;
+}
+.winston{
+    font-weight: bold;
+    font-size: 20px;
+    color: #BFFFBC;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
