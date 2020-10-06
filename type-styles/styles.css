@@ -1,11 +1,13 @@
 html{
-    margin: 8% 10%;
     font-family: 'Ubuntu', sans-serif;
     font-size: 18pt;
 }
+body{
+    margin: 8% 10%;
+}
 h1{
     font-size: 72pt;
-    margin-bottom: 2%;
+    margin: 2% 0;
     color: #305496;
 }
 h2{
