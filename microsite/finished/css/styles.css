@@ -9,6 +9,14 @@ body{
     color: #454285;
     padding-bottom: 15%;
 }
+.sources a{
+    text-decoration: none;
+    color: #454285;
+    font-weight: bold;
+}
+.sources a:hover{
+    color: #211f47;
+}
 .highlight{
     color: #CF2727;
 }
